@@ -10,7 +10,7 @@ Hope you like them!
 
 #
 
-Feel free to reach me by [✉️](bbeatriz@gmail.com), [💼](https://www.linkedin.com/in/barbarabsacristan/) or [🐤](https://twitter.com/bbeatrizsi).
+Feel free to reach me by [✉️](mailto:bbeatriz@gmail.com), [💼](https://www.linkedin.com/in/barbarabsacristan/) or [🐤](https://twitter.com/bbeatrizsi).
 
 <!--
 **BbeatrizSI/BbeatrizSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
