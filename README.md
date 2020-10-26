@@ -4,7 +4,7 @@
 
 #
 
-### Here are a few works I've been working on
+### Here are a few things I've been working on
 
 Hope you like them!
 
