@@ -1,6 +1,6 @@
 ## Hi everyone! 🌈
 
-### I'm a Jr. Front-End developer who wants to improve day by day and whose world is ruled by curiosity!
+### I'm a Front-End developer who wants to improve day by day and whose world is ruled by curiosity!
 
 #
 
